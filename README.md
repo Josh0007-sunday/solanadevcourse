@@ -23,3 +23,5 @@ look for ==> sendTransaction.ts and run the already designed code
 note this code can be easily modified
 big w ✅✅
 >>>>>>> 6cb5ac3412fd10fdaa288e1aeab80132a0c54ab2
+
+this is an ATA 53YPr9wF2rz6rkwQtEfrPtaKnRBVNLUNALLtjnSTHrii
